@@ -1,6 +1,6 @@
 require_relative "blackjack.rb"
 
-def runner
+def runner(total, card_total, )
 
 welcome
 
